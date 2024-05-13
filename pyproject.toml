@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.10"
 ipykernel = "^6.29.4"
 numpy = "^1.26.4"
+mlrose = {git = "https://github.com/gkhayes/mlrose.git"}
 
 
 [build-system]
